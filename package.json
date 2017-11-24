@@ -59,7 +59,7 @@
     "postcss-custom-selectors": "^3.0.0",
     "postcss-flexbugs-fixes": "^2.0.0",
     "postcss-import": "^8.1.2",
-    "postcss-loader": "^1.1.0",
+    "postcss-loader": "^2.0.9",
     "postcss-media-minmax": "^2.1.2",
     "postcss-nesting": "^3.0.0",
     "postcss-selector-matches": "^2.0.1",
