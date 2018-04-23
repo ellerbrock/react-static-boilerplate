@@ -61,7 +61,7 @@
     "postcss-import": "^9.0.0",
     "postcss-loader": "^1.1.0",
     "postcss-media-minmax": "^2.1.2",
-    "postcss-nesting": "^3.0.0",
+    "postcss-nesting": "^5.0.0",
     "postcss-selector-matches": "^2.0.1",
     "postcss-selector-not": "^2.0.0",
     "react-hot-loader": "^3.0.0-beta.2",
