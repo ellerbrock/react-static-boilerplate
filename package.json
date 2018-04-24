@@ -48,7 +48,7 @@
     "json-loader": "^0.5.4",
     "markdown-it": "^8.0.1",
     "mocha": "^3.1.2",
-    "path-to-regexp": "^1.5.3",
+    "path-to-regexp": "^2.2.1",
     "pixrem": "^3.0.1",
     "pleeease-filters": "^3.0.0",
     "postcss": "^6.0.0",
