@@ -58,7 +58,7 @@
     "postcss-custom-properties": "^5.0.1",
     "postcss-custom-selectors": "^3.0.0",
     "postcss-flexbugs-fixes": "^2.0.0",
-    "postcss-import": "^9.0.0",
+    "postcss-import": "^12.0.0",
     "postcss-loader": "^1.1.0",
     "postcss-media-minmax": "^2.1.2",
     "postcss-nesting": "^3.0.0",
