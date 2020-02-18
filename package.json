@@ -52,7 +52,7 @@
     "pixrem": "^3.0.1",
     "pleeease-filters": "^3.0.0",
     "postcss": "^6.0.0",
-    "postcss-calc": "^5.3.0",
+    "postcss-calc": "^7.0.2",
     "postcss-color-function": "^4.0.0",
     "postcss-custom-media": "^5.0.1",
     "postcss-custom-properties": "^5.0.1",
